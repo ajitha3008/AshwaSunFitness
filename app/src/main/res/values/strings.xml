@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AshwaSun Fitness</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_connect">Connect</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="about">About</string>
+    <string name="connect">Connect via:</string>
+    <string name="videos">Videos</string>
+    <string name="website">Website</string>
+
+</resources>
